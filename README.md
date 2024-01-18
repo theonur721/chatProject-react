@@ -1,10 +1,10 @@
 <h1> CHAT APP </h1>
 
-chat app
+"chat project with different rooms"
 
 <h2> Used technologies </h2>
 
-REACT
+REACT - firebase
 
 <h2> Screen Gif </h2>
 
