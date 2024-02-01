@@ -130,6 +130,7 @@ button:hover {
   flex-direction: column;
   padding: 20px;
   gap: 5px;
+  overflow: auto;
 }
 
 .chat form {
